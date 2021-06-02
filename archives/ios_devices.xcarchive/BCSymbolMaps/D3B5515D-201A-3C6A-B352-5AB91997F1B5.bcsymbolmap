@@ -1,0 +1,268 @@
+BCSymbolMap Version: 2.0
+Apple clang version 12.0.5 (clang-1205.0.22.9)
+/Applications/Xcode-12.5.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk
+iPhoneOS14.5.sdk
+/Users/a.skandakov/Library/Developer/Xcode/DerivedData/TransitionKit-hjefvupopzaulbfhellpuiiumycd/Build/Intermediates.noindex/ArchiveIntermediates/TransitionKitFramework/IntermediateBuildFilesPath/TransitionKit.build/Release-iphoneos/TransitionKitFramework.build/DerivedSources/TransitionKitFramework_vers.c
+/Users/a.skandakov/TransitionKit
++[TKStateMachine keyPathsForValuesAffectingValueForKey:]
+-[TKStateMachine init]
+-[TKStateMachine setInitialState:]
+-[TKStateMachine setCurrentState:]
+-[TKStateMachine states]
+-[TKStateMachine addState:]
+-[TKStateMachine addStates:]
+-[TKStateMachine stateNamed:]
+-[TKStateMachine isInState:]
+-[TKStateMachine events]
+-[TKStateMachine addEvent:]
+-[TKStateMachine addEvents:]
+-[TKStateMachine eventNamed:]
+-[TKStateMachine activate]
+-[TKStateMachine canFireEvent:]
+-[TKStateMachine fireEvent:userInfo:error:]
+-[TKStateMachine initWithCoder:]
+-[TKStateMachine encodeWithCoder:]
+-[TKStateMachine copyWithZone:]
+-[TKStateMachine description]
+-[TKStateMachine dotDescription]
+-[TKStateMachine initialState]
+-[TKStateMachine currentState]
+-[TKStateMachine mutableStates]
+-[TKStateMachine setMutableStates:]
+-[TKStateMachine mutableEvents]
+-[TKStateMachine setMutableEvents:]
+-[TKStateMachine isActive]
+-[TKStateMachine setActive:]
+-[TKStateMachine lock]
+-[TKStateMachine setLock:]
+-[TKStateMachine .cxx_destruct]
+_OBJC_SELECTOR_REFERENCES_
+_OBJC_SELECTOR_REFERENCES_.16
+_OBJC_CLASSLIST_REFERENCES_$_
+_OBJC_SELECTOR_REFERENCES_.20
+_OBJC_SELECTOR_REFERENCES_.22
+_OBJC_SELECTOR_REFERENCES_.29
+_OBJC_CLASSLIST_REFERENCES_$_.30
+_OBJC_SELECTOR_REFERENCES_.32
+_OBJC_SELECTOR_REFERENCES_.34
+_OBJC_SELECTOR_REFERENCES_.36
+_OBJC_CLASSLIST_REFERENCES_$_.37
+_OBJC_SELECTOR_REFERENCES_.39
+_OBJC_SELECTOR_REFERENCES_.41
+_OBJC_CLASSLIST_REFERENCES_$_.42
+_OBJC_SELECTOR_REFERENCES_.46
+_OBJC_SELECTOR_REFERENCES_.50
+_OBJC_SELECTOR_REFERENCES_.52
+_OBJC_CLASSLIST_REFERENCES_$_.53
+_OBJC_SELECTOR_REFERENCES_.57
+_OBJC_SELECTOR_REFERENCES_.59
+_OBJC_SELECTOR_REFERENCES_.63
+_OBJC_SELECTOR_REFERENCES_.65
+_OBJC_SELECTOR_REFERENCES_.67
+_OBJC_SELECTOR_REFERENCES_.69
+_OBJC_SELECTOR_REFERENCES_.71
+_OBJC_CLASSLIST_REFERENCES_$_.72
+_OBJC_SELECTOR_REFERENCES_.78
+_OBJC_SELECTOR_REFERENCES_.80
+_OBJC_SELECTOR_REFERENCES_.82
+_OBJC_SELECTOR_REFERENCES_.86
+_OBJC_SELECTOR_REFERENCES_.88
+_OBJC_SELECTOR_REFERENCES_.92
+_OBJC_SELECTOR_REFERENCES_.94
+_OBJC_SELECTOR_REFERENCES_.98
+_OBJC_SELECTOR_REFERENCES_.100
+_OBJC_SELECTOR_REFERENCES_.102
+_OBJC_SELECTOR_REFERENCES_.104
+_OBJC_SELECTOR_REFERENCES_.106
+_OBJC_SELECTOR_REFERENCES_.108
+_OBJC_CLASSLIST_REFERENCES_$_.109
+_OBJC_SELECTOR_REFERENCES_.113
+_OBJC_SELECTOR_REFERENCES_.117
+_OBJC_SELECTOR_REFERENCES_.123
+_OBJC_SELECTOR_REFERENCES_.127
+_OBJC_SELECTOR_REFERENCES_.129
+_OBJC_CLASSLIST_REFERENCES_$_.132
+_OBJC_SELECTOR_REFERENCES_.134
+_OBJC_CLASSLIST_REFERENCES_$_.135
+_OBJC_SELECTOR_REFERENCES_.137
+_OBJC_CLASSLIST_REFERENCES_$_.138
+_OBJC_SELECTOR_REFERENCES_.140
+_OBJC_SELECTOR_REFERENCES_.142
+_OBJC_SELECTOR_REFERENCES_.148
+_OBJC_SELECTOR_REFERENCES_.150
+_OBJC_SELECTOR_REFERENCES_.152
+_OBJC_CLASSLIST_REFERENCES_$_.153
+_OBJC_SELECTOR_REFERENCES_.155
+_OBJC_SELECTOR_REFERENCES_.157
+_OBJC_CLASSLIST_REFERENCES_$_.158
+_OBJC_SELECTOR_REFERENCES_.160
+_OBJC_SELECTOR_REFERENCES_.162
+_OBJC_SELECTOR_REFERENCES_.164
+_OBJC_SELECTOR_REFERENCES_.166
+_OBJC_SELECTOR_REFERENCES_.170
+_OBJC_SELECTOR_REFERENCES_.176
+_OBJC_SELECTOR_REFERENCES_.178
+_OBJC_SELECTOR_REFERENCES_.180
+_OBJC_SELECTOR_REFERENCES_.182
+_OBJC_SELECTOR_REFERENCES_.184
+_OBJC_SELECTOR_REFERENCES_.186
+_OBJC_SELECTOR_REFERENCES_.188
+_OBJC_CLASSLIST_REFERENCES_$_.189
+_OBJC_SELECTOR_REFERENCES_.191
+_OBJC_SELECTOR_REFERENCES_.193
+_OBJC_SELECTOR_REFERENCES_.195
+_OBJC_CLASSLIST_REFERENCES_$_.202
+_OBJC_SELECTOR_REFERENCES_.206
+_OBJC_SELECTOR_REFERENCES_.210
+_OBJC_SELECTOR_REFERENCES_.218
+__OBJC_$_CLASS_METHODS_TKStateMachine
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_NSCoding
+__OBJC_$_PROTOCOL_METHOD_TYPES_NSCoding
+__OBJC_PROTOCOL_$_NSCoding
+__OBJC_LABEL_PROTOCOL_$_NSCoding
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_NSCopying
+__OBJC_$_PROTOCOL_METHOD_TYPES_NSCopying
+__OBJC_PROTOCOL_$_NSCopying
+__OBJC_LABEL_PROTOCOL_$_NSCopying
+__OBJC_CLASS_PROTOCOLS_$_TKStateMachine
+__OBJC_METACLASS_RO_$_TKStateMachine
+__OBJC_$_INSTANCE_METHODS_TKStateMachine
+_OBJC_IVAR_$_TKStateMachine._active
+_OBJC_IVAR_$_TKStateMachine._initialState
+_OBJC_IVAR_$_TKStateMachine._currentState
+_OBJC_IVAR_$_TKStateMachine._mutableStates
+_OBJC_IVAR_$_TKStateMachine._mutableEvents
+_OBJC_IVAR_$_TKStateMachine._lock
+__OBJC_$_INSTANCE_VARIABLES_TKStateMachine
+__OBJC_$_PROP_LIST_TKStateMachine
+__OBJC_CLASS_RO_$_TKStateMachine
+/Users/a.skandakov/TransitionKit/Code/TKStateMachine.m
+Code/TKStateMachine.m
+Code/TKStateMachine.h
+TKQuoteString
++[TKState stateWithName:userInfo:]
++[TKState stateWithName:]
+-[TKState description]
+-[TKState copyWithZone:]
+-[TKState initWithCoder:]
+-[TKState encodeWithCoder:]
+-[TKState name]
+-[TKState setName:]
+-[TKState userInfo]
+-[TKState setUserInfo:]
+-[TKState willEnterStateBlock]
+-[TKState setWillEnterStateBlock:]
+-[TKState didEnterStateBlock]
+-[TKState setDidEnterStateBlock:]
+-[TKState willExitStateBlock]
+-[TKState setWillExitStateBlock:]
+-[TKState didExitStateBlock]
+-[TKState setDidExitStateBlock:]
+-[TKState .cxx_destruct]
+_OBJC_SELECTOR_REFERENCES_.2
+_OBJC_SELECTOR_REFERENCES_.4
+_OBJC_SELECTOR_REFERENCES_.6
+_OBJC_SELECTOR_REFERENCES_.8
+_OBJC_CLASSLIST_REFERENCES_$_.9
+_OBJC_SELECTOR_REFERENCES_.13
+_OBJC_SELECTOR_REFERENCES_.15
+_OBJC_SELECTOR_REFERENCES_.17
+_OBJC_SELECTOR_REFERENCES_.19
+_OBJC_SELECTOR_REFERENCES_.21
+_OBJC_SELECTOR_REFERENCES_.23
+_OBJC_SELECTOR_REFERENCES_.25
+_OBJC_SELECTOR_REFERENCES_.27
+_OBJC_SELECTOR_REFERENCES_.31
+_OBJC_SELECTOR_REFERENCES_.33
+_OBJC_SELECTOR_REFERENCES_.35
+__OBJC_$_CLASS_METHODS_TKState
+__OBJC_CLASS_PROTOCOLS_$_TKState
+__OBJC_METACLASS_RO_$_TKState
+__OBJC_$_INSTANCE_METHODS_TKState
+_OBJC_IVAR_$_TKState._name
+_OBJC_IVAR_$_TKState._userInfo
+_OBJC_IVAR_$_TKState._willEnterStateBlock
+_OBJC_IVAR_$_TKState._didEnterStateBlock
+_OBJC_IVAR_$_TKState._willExitStateBlock
+_OBJC_IVAR_$_TKState._didExitStateBlock
+__OBJC_$_INSTANCE_VARIABLES_TKState
+__OBJC_$_PROP_LIST_TKState
+__OBJC_CLASS_RO_$_TKState
+/Users/a.skandakov/TransitionKit/Code/TKState.m
+Code/TKState.m
+Code/TKState.h
++[TKEvent eventWithName:transitioningFromStates:toState:]
+-[TKEvent description]
+-[TKEvent initWithCoder:]
+-[TKEvent encodeWithCoder:]
+-[TKEvent copyWithZone:]
+-[TKEvent name]
+-[TKEvent setName:]
+-[TKEvent sourceStates]
+-[TKEvent setSourceStates:]
+-[TKEvent destinationState]
+-[TKEvent setDestinationState:]
+-[TKEvent shouldFireEventBlock]
+-[TKEvent setShouldFireEventBlock:]
+-[TKEvent willFireEventBlock]
+-[TKEvent setWillFireEventBlock:]
+-[TKEvent didFireEventBlock]
+-[TKEvent setDidFireEventBlock:]
+-[TKEvent .cxx_destruct]
+___TKDescribeSourceStates_block_invoke
+___copy_helper_block_e8_32s40s
+___destroy_helper_block_e8_32s40s
+_OBJC_SELECTOR_REFERENCES_.10
+_OBJC_CLASSLIST_REFERENCES_$_.11
+_OBJC_SELECTOR_REFERENCES_.37
+_OBJC_SELECTOR_REFERENCES_.43
+_OBJC_SELECTOR_REFERENCES_.45
+_OBJC_SELECTOR_REFERENCES_.47
+__OBJC_$_CLASS_METHODS_TKEvent
+__OBJC_CLASS_PROTOCOLS_$_TKEvent
+__OBJC_METACLASS_RO_$_TKEvent
+__OBJC_$_INSTANCE_METHODS_TKEvent
+_OBJC_IVAR_$_TKEvent._name
+_OBJC_IVAR_$_TKEvent._sourceStates
+_OBJC_IVAR_$_TKEvent._destinationState
+_OBJC_IVAR_$_TKEvent._shouldFireEventBlock
+_OBJC_IVAR_$_TKEvent._willFireEventBlock
+_OBJC_IVAR_$_TKEvent._didFireEventBlock
+__OBJC_$_INSTANCE_VARIABLES_TKEvent
+__OBJC_$_PROP_LIST_TKEvent
+__OBJC_CLASS_RO_$_TKEvent
+_OBJC_CLASSLIST_REFERENCES_$_.91
+_OBJC_SELECTOR_REFERENCES_.93
+_OBJC_SELECTOR_REFERENCES_.103
+___block_descriptor_48_e8_32s40s_e24_v32?0"TKState"8Q16^B24l
+/Users/a.skandakov/TransitionKit/Code/TKEvent.m
+__destroy_helper_block_e8_32s40s
+__copy_helper_block_e8_32s40s
+__TKDescribeSourceStates_block_invoke
+Code/TKEvent.m
+Code/TKEvent.h
+TKDescribeSourceStates
++[TKTransition transitionForEvent:fromState:inStateMachine:userInfo:]
+-[TKTransition destinationState]
+-[TKTransition event]
+-[TKTransition setEvent:]
+-[TKTransition sourceState]
+-[TKTransition setSourceState:]
+-[TKTransition stateMachine]
+-[TKTransition setStateMachine:]
+-[TKTransition userInfo]
+-[TKTransition setUserInfo:]
+-[TKTransition .cxx_destruct]
+__OBJC_$_CLASS_METHODS_TKTransition
+__OBJC_METACLASS_RO_$_TKTransition
+__OBJC_$_INSTANCE_METHODS_TKTransition
+_OBJC_IVAR_$_TKTransition._event
+_OBJC_IVAR_$_TKTransition._sourceState
+_OBJC_IVAR_$_TKTransition._stateMachine
+_OBJC_IVAR_$_TKTransition._userInfo
+__OBJC_$_INSTANCE_VARIABLES_TKTransition
+__OBJC_$_PROP_LIST_TKTransition
+__OBJC_CLASS_RO_$_TKTransition
+/Users/a.skandakov/TransitionKit/Code/TKTransition.m
+Code/TKTransition.m
+Code/TKTransition.h

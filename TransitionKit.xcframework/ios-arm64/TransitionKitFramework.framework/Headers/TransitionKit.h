@@ -21,9 +21,20 @@
 #ifndef TransitionKit_TransitionKit_h
 #define TransitionKit_TransitionKit_h
 
+#if SWIFT_PACKAGE
+
+#import <TransitionKitFramework/TKStateMachine.h>
+#import <TransitionKitFramework/TKEvent.h>
+#import <TransitionKitFramework/TKState.h>
+#import <TransitionKitFramework/TKTransition.h>
+
+#else
+
 #import "TKStateMachine.h"
 #import "TKEvent.h"
 #import "TKState.h"
 #import "TKTransition.h"
+
+#endif
 
 #endif

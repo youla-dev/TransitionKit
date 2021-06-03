@@ -19,13 +19,13 @@
 		2F4EC36CAD4D4CB08D744BB4 /* libPods-ios.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 32A48E628DDE45B98F10DBA5 /* libPods-ios.a */; };
 		42AE467DF3384AE6834629CA /* libPods-osx.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C96E76A4064B44C8AECE57E9 /* libPods-osx.a */; };
 		EBA0EB1D2667E19F008BAB24 /* TransitionKit-Prefix.pch in Headers */ = {isa = PBXBuildFile; fileRef = 252C460416F6833D00CF1FEA /* TransitionKit-Prefix.pch */; };
-		EBA0EB1E2667E1A1008BAB24 /* TKStateMachine.h in Headers */ = {isa = PBXBuildFile; fileRef = 252C464116F6A4B500CF1FEA /* TKStateMachine.h */; };
+		EBA0EB1E2667E1A1008BAB24 /* TKStateMachine.h in Headers */ = {isa = PBXBuildFile; fileRef = 252C464116F6A4B500CF1FEA /* TKStateMachine.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EBA0EB1F2667E1A5008BAB24 /* TKStateMachine.m in Sources */ = {isa = PBXBuildFile; fileRef = 252C464216F6A4B500CF1FEA /* TKStateMachine.m */; };
-		EBA0EB202667E1A8008BAB24 /* TKEvent.h in Headers */ = {isa = PBXBuildFile; fileRef = 252C464616F6A4C200CF1FEA /* TKEvent.h */; };
+		EBA0EB202667E1A8008BAB24 /* TKEvent.h in Headers */ = {isa = PBXBuildFile; fileRef = 252C464616F6A4C200CF1FEA /* TKEvent.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EBA0EB212667E1AA008BAB24 /* TKEvent.m in Sources */ = {isa = PBXBuildFile; fileRef = 252C464716F6A4C200CF1FEA /* TKEvent.m */; };
-		EBA0EB222667E1AE008BAB24 /* TKState.h in Headers */ = {isa = PBXBuildFile; fileRef = 252C464B16F6A4DF00CF1FEA /* TKState.h */; };
+		EBA0EB222667E1AE008BAB24 /* TKState.h in Headers */ = {isa = PBXBuildFile; fileRef = 252C464B16F6A4DF00CF1FEA /* TKState.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EBA0EB232667E1B0008BAB24 /* TKState.m in Sources */ = {isa = PBXBuildFile; fileRef = 252C464C16F6A4DF00CF1FEA /* TKState.m */; };
-		EBA0EB242667E1B4008BAB24 /* TKTransition.h in Headers */ = {isa = PBXBuildFile; fileRef = 25B01F9A1808941D007488E1 /* TKTransition.h */; };
+		EBA0EB242667E1B4008BAB24 /* TKTransition.h in Headers */ = {isa = PBXBuildFile; fileRef = 25B01F9A1808941D007488E1 /* TKTransition.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EBA0EB252667E1B6008BAB24 /* TKTransition.m in Sources */ = {isa = PBXBuildFile; fileRef = 25B01F9B1808941D007488E1 /* TKTransition.m */; };
 		EBA0EB262667E1BA008BAB24 /* TransitionKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 252C465C16F6A79100CF1FEA /* TransitionKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
@@ -196,10 +196,10 @@
 			files = (
 				EBA0EB262667E1BA008BAB24 /* TransitionKit.h in Headers */,
 				EBA0EB222667E1AE008BAB24 /* TKState.h in Headers */,
-				EBA0EB242667E1B4008BAB24 /* TKTransition.h in Headers */,
 				EBA0EB202667E1A8008BAB24 /* TKEvent.h in Headers */,
-				EBA0EB1D2667E19F008BAB24 /* TransitionKit-Prefix.pch in Headers */,
 				EBA0EB1E2667E1A1008BAB24 /* TKStateMachine.h in Headers */,
+				EBA0EB242667E1B4008BAB24 /* TKTransition.h in Headers */,
+				EBA0EB1D2667E19F008BAB24 /* TransitionKit-Prefix.pch in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

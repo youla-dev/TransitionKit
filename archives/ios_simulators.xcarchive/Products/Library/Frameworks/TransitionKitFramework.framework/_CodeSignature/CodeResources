@@ -4,6 +4,22 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/TKEvent.h</key>
+		<data>
+		qCNrnHTSOUD+MHjHE1dwytblWYk=
+		</data>
+		<key>Headers/TKState.h</key>
+		<data>
+		Xph8O8Heh1/pAkRfBeQME0Updu0=
+		</data>
+		<key>Headers/TKStateMachine.h</key>
+		<data>
+		oONQXRC33gWsOTToPB488BEbWy8=
+		</data>
+		<key>Headers/TKTransition.h</key>
+		<data>
+		fxKQe7ZZFjP14mWne+5iuktzx58=
+		</data>
 		<key>Headers/TransitionKit.h</key>
 		<data>
 		ZTzTvgxE6nz6x2PgHV2H4joZ30I=
@@ -15,6 +31,34 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/TKEvent.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			g7RuYPuf8I9ZvvBYyM1mTkv3ZetFPjN3On/Z/BPCDy8=
+			</data>
+		</dict>
+		<key>Headers/TKState.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KNme1sbEpSsbkZ7CLtgnvjwX9v1rwYxkDPgsWOMU1f4=
+			</data>
+		</dict>
+		<key>Headers/TKStateMachine.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			henmmrUVT04LetkXY5ypglZfqZR0rxVlBS4C3Bpa2ME=
+			</data>
+		</dict>
+		<key>Headers/TKTransition.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			29xM9+uX6GQAGi2Va/8g5U82rkLzCihAkRpmmqU6ymc=
+			</data>
+		</dict>
 		<key>Headers/TransitionKit.h</key>
 		<dict>
 			<key>hash2</key>
